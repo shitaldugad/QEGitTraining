@@ -1,0 +1,26 @@
+git config --global user.name "Shital"
+
+git config --global user.email "shital_dugad@persistent.com"
+
+git config --global core.editor "notepad++"
+
+git config --list
+
+git version
+
+git clone "<url>"
+
+
+git init
+
+git status
+
+git add "git commands.txt"
+
+git add .
+
+git add .*
+
+git status
+
+git commit

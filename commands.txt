@@ -29,3 +29,33 @@ git commit -m "WT1:Git commands file created"
 
 git commit -am "<mesage>" / git commit -a-m "<mesage>"
 
+git log
+
+git log --help
+
+git log -2 //recent 2 commits
+
+git log --oneline
+
+git log --help
+
+git log --author="Shita"
+
+git log --author="Shita" --oneline
+
+git log --untill="06/22/2020"   //mmddyyyy"
+
+git log --since="06/21/2020"
+
+git log --grep="WT1"
+
+
+git rm file3.txt
+
+git checkout <commit id>
+
+git checkout master
+
+
+
+

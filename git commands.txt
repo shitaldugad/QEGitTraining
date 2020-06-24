@@ -29,3 +29,4 @@ git commit -m "WT1:Git commands file created"
 
 git commit -am "<mesage>" / git commit -a-m "<mesage>"
 
+git log

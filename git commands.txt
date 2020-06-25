@@ -12,3 +12,6 @@ Change 3 -> changes done for bug2 *
 Change 4 -> Checking rebase this code change is done by teammate *
 
 Change 5 -> Added by teammate to test rebasing with conflict 
+
+Chnage 6 -> Rebasing with conflict scenario
+

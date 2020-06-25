@@ -2,4 +2,6 @@ Hello
 
 File 2
 
-change tofix bug1
+change -> change tofix bug1
+
+Change -> Changes made by team mate 

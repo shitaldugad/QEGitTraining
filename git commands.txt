@@ -3,3 +3,5 @@ Hello
 File 2
 
 change tofix bug1
+
+changes done for bug2
